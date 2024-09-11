@@ -5,7 +5,7 @@ let miImage = document.querySelector("img");
 miImage.onclick = function () {
   let miSrc = miImage.getAttribute("src");
   if (miSrc === "Images/Anabantha.jpg") {
-    miImage.setAttribute("src", "Images/HadaDeBeng.jpg");
+    miImage.setAttribute("src", "Images/HadaDebeng.jpg");
   } else {
     miImage.setAttribute("src", "Images/Morante.jpg");
   }
