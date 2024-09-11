@@ -1,0 +1,24 @@
+<!Doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="Styles/styles.css" type="text/css">
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans" rel="stylesheet" type="text/css" />
+
+        <title>Pagina de prueba</title>
+    </head>
+    <body>
+       <h1></h1>
+        <img src="\Images\Anabantha.jpg" alt="Portada de disco Anabantha">
+        <p>Metal bands</p>
+        <ul>
+            <li>Anabantha</li>
+            <li>Morante</li>
+            <li>Erszebeth</li>
+        </ul>
+        
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi asperiores odio, unde aliquid necessitatibus provident inventore quibusdam tempora qui tempore quidem consectetur quam perferendis, dolorum ipsum cupiditate a iste ipsa.</p>
+        <button>Cambiar de usuario</button>
+        <script src="Scripts/main.js"></script>
+    </body>
+</html>
